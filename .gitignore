@@ -1,2 +1,6 @@
 *.o
 mdriver
+01_basic
+malloc_prac/01_basic
+malloc_prac/01_basic_malloc
+malloc_prac/02_array
