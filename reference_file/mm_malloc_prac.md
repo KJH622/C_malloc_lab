@@ -63,6 +63,8 @@ void *mm_malloc(size_t size) {
 
 ## 단계별 실행 과정
 
+![alt text](image.png)
+
 ### Step 1 — `size == 0` 검사
 
 ```c
